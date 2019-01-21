@@ -9,6 +9,6 @@ a Trivia game is using JavaScript for the logic and jQuery to manipulate HTML an
   * Player can not  pick more than one answer per question.
   
 
-# The Questions are come from website 
+# The questions are come from =>
 
 https://www.sanfoundry.com/javascript-mcqs-classes/
